@@ -1,6 +1,6 @@
 # Login_Errors
 
-I have created another login form with different validation
+I have created another login form with different validation in React.js
 
 In this project user would see below validations on submitting the form:
 
